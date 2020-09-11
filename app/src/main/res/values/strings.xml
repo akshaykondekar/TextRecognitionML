@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextRecognitionML</string>
+    <string name="capture_image">Capture</string>
+    <string name="gallery_image">gallery</string>
+    <string name="default_text">Loading text...</string>
+    <string name="task_fail_text">Task detect Fail</string>
+    <string name="loading_text">Loading text...</string>
+    <string name="error_text">Select proper image</string>
+</resources>
